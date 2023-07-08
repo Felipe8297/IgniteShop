@@ -24,8 +24,7 @@ O Ignite Shop possui as seguintes funcionalidades:
 - Remoção de produtos do carrinho
 - Finalização da compra
 
-Instalação e Execução![IgniteShop](https://github.com/Felipe8297/IgniteShop/assets/60430412/d77e9acb-a2b8-4303-87c4-2083a6b6224b)
-:
+Instalação e Execução:
 
 ```bash
 npm run dev
@@ -34,3 +33,5 @@ yarn dev
 # or
 pnpm dev
 ```
+
+![IgniteShop](https://github.com/Felipe8297/IgniteShop/assets/60430412/d77e9acb-a2b8-4303-87c4-2083a6b6224b)
